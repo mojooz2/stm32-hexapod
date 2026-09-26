@@ -3,7 +3,7 @@
 A six-legged walking robot designed and built around an **STM32 NUCLEO-F429ZI**, **18 MG996R-class servos**, and **two PCA9685 PWM controllers**. The robot uses analytical inverse kinematics, Cartesian foot trajectories, and an alternating-tripod gait to coordinate all 18 joints.
 
 <p align="center">
-  <img src="media/final/walking_demo.gif" width="520" alt="Hexapod walking demo">
+  <video src="media/final/walking_demo.mp4" width="520" alt="Hexapod walking demo">
 </p>
 
 <p align="center">
